@@ -1,0 +1,7 @@
+{
+  "ext": "js",
+  "exec": "node src/profiler.test.js",
+  "events": {
+    "start": "clear"
+  }
+}
